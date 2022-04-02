@@ -1,0 +1,64 @@
+body {
+  font-family: 'KR Birthday Letters', sans-serif;
+  margin: 0;
+  text-align: center;
+}
+
+header {
+  background: #fff3a7;
+  color: #f54c5a;
+}
+
+main {
+  padding: 7% 0;
+}
+
+footer {
+  background: #fff3a7;
+  padding: 7% 0;
+}
+
+h1 {
+  font-size: 10rem;
+  padding: 7% 0;
+  margin: 0;
+}
+
+h2 {
+  font-size: 7.5rem;
+  margin: 0;
+}
+
+.birthday-soyjak {
+  border-radius: 50%;
+}
+
+.happy-merchant {
+  display: none;
+}
+
+.presents-container {
+  width: max-content;
+  margin: 7% auto 0;
+
+  display: flex;
+  column-gap: 100px;
+}
+
+.question-mark {
+  width: 500px;
+}
+
+.question-mark:hover {
+  cursor: pointer;
+}
+
+.attribution {
+  color: #8fe0ff;
+  font-size: 2rem;
+}
+
+.dude-weed {
+  width: 500px;
+  height: 500px;
+}
